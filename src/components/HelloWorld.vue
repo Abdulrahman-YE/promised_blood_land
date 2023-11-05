@@ -4,7 +4,7 @@
   <v-container class="fill-height">
     <v-responsive class="align-center text-center fill-height ">
 
-      <div>
+      <div :dir="$i18n.locale == 'ar' ? 'rtl' : 'ltr'">
         <link href="https://fonts.googleapis.com/css?family=Raleway:300,500,700,900" rel="stylesheet">
 
         <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="width: 0;height: 0;">
@@ -25,8 +25,8 @@
           <span class="dropy"></span>
           <span class="dropy"></span>
         </h1>
-        <p class="text-body" style="color:IndianRed;">3670 {{ $t('home.child') }}, 2326 {{ $t('home.women') }}. 367 {{
-          $t("home.killed") +" " + $t('home.every_day') }} </p>
+        <p class="text-body" style="color:IndianRed;">3670 {{ $t('home.child') }} , 2326 {{ $t('home.women') }}. 367 {{
+          $t("home.killed") + " " + $t('home.every_day') }} </p>
 
       </div>
 
@@ -59,14 +59,7 @@
       <div class="py-14 " />
 
       <v-row class="d-flex align-center justify-center">
-        <v-col cols="auto">
-          <v-btn href="https://vuetifyjs.com/components/all/" min-width="164" rel="noopener noreferrer" target="_blank"
-            variant="text">
-            <v-icon icon="mdi-view-dashboard" size="large" start />
 
-            Components
-          </v-btn>
-        </v-col>
 
         <v-col cols="auto">
           <v-btn color="primary" to="/genocide" min-width="228" rel="noopener noreferrer" size="x-large" target="_blank"
@@ -77,14 +70,7 @@
           </v-btn>
         </v-col>
 
-        <v-col cols="auto">
-          <v-btn href="https://community.vuetifyjs.com/" min-width="164" rel="noopener noreferrer" target="_blank"
-            variant="text">
-            <v-icon icon="mdi-account-group" size="large" start />
 
-            Community
-          </v-btn>
-        </v-col>
       </v-row>
     </v-responsive>
   </v-container>
