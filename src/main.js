@@ -19,7 +19,7 @@ const i18n = createI18n({
 
     legacy: false,
     globalInjection: true,
-    locale: "en",
+    locale: (localStorage.getItem('lang') || 'en'), // set default locale
     fallbackLocale: "en",
     availableLocales: ["en", "ar", "es", "fr", "zh"],
     messages: messages,

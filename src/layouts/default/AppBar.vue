@@ -20,7 +20,7 @@ export default {
   },
   watch: {
     '$i18n.locale': (newVal, oldVal) => {
-      console.log(newVal)
+      localStorage.setItem('lang', newVal)
       let h = document.querySelector('html');
       h.setAttribute('lang', newVal);
       if (oldVal == 'ar' && newVal != 'ar') {
