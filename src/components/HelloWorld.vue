@@ -20,9 +20,7 @@
         <h1 class="title">
           9061 {{ $t("home.killed") }}
           <span class="dropy"></span>
-          <span class="dropy"></span>
-          <span class="dropy"></span>
-          <span class="dropy"></span>
+
           <span class="dropy"></span>
         </h1>
         <p class="text-body" style="color:IndianRed;">3670 {{ $t('home.child') }} , 2326 {{ $t('home.women') }}. 367 {{
@@ -49,11 +47,9 @@
           <span class="dropy"></span>
           <span class="dropy"></span>
           <span class="dropy"></span>
-          <span class="dropy"></span>
-          <span class="dropy"></span>
-          <span class="dropy"></span>
-          <span class="dropy"></span>
-          <span class="dropy"></span>
+          <span class="dropy"></span> 
+
+
 
         </h1>
 
