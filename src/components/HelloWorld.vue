@@ -2,8 +2,9 @@
   <div class="drop"></div>
 
   <v-container class="fill-height">
-    <v-responsive class="align-center text-center fill-height ">
 
+    <v-responsive class="align-center text-center fill-height ">
+      <v-card :title="$t('home.news_title')" :text="$t('home.news_subtitle')" variant="outlined"></v-card>
       <div :dir="$i18n.locale == 'ar' ? 'rtl' : 'ltr'">
         <link href="https://fonts.googleapis.com/css?family=Raleway:300,500,700,900" rel="stylesheet">
 
@@ -18,12 +19,12 @@
         </svg>
 
         <h1 class="title">
-          9061 {{ $t("home.killed") }}
+          9770 {{ $t("home.killed") }}
           <span class="dropy"></span>
 
           <span class="dropy"></span>
         </h1>
-        <p class="text-body" style="color:IndianRed;">3670 {{ $t('home.child') }} , 2326 {{ $t('home.women') }}. 367 {{
+        <p class="text-body" style="color:IndianRed;">4800 {{ $t('home.child') }} , 2326 {{ $t('home.women') }}. 325 {{
           $t("home.killed") + " " + $t('home.every_day') }} </p>
 
       </div>
@@ -47,7 +48,7 @@
           <span class="dropy"></span>
           <span class="dropy"></span>
           <span class="dropy"></span>
-          <span class="dropy"></span> 
+          <span class="dropy"></span>
 
 
 
