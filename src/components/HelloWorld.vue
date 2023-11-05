@@ -62,8 +62,7 @@
 
 
         <v-col cols="auto">
-          <v-btn color="primary" to="/genocide" min-width="228" rel="noopener noreferrer" size="x-large" target="_blank"
-            variant="flat">
+          <v-btn color="primary" to="/genocide" min-width="228" rel="noopener noreferrer" size="x-large" variant="flat">
             <v-icon icon="mdi-water" size="large" start />
 
             {{ $t('home.genocide') }}
