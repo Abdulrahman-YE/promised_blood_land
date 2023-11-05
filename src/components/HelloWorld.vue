@@ -44,13 +44,17 @@
           </defs>
         </svg>
 
-        <h1 class="text-h2 font-weight-bold">{{ $t('home.title') }}
+        <h1 class="title">{{ $t('home.title') }}
 
           <span class="dropy"></span>
           <span class="dropy"></span>
           <span class="dropy"></span>
           <span class="dropy"></span>
           <span class="dropy"></span>
+          <span class="dropy"></span>
+          <span class="dropy"></span>
+          <span class="dropy"></span>
+
         </h1>
 
       </div>
