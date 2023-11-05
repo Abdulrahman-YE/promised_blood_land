@@ -2,6 +2,11 @@
     "home": {
         "page_title": "Tutoriel d'invasion de terres",
         "welcome": "Bienvenue à",
-        "title": "La Terre Promise Sanglante"
+        "title": "La Terre Promise Sanglante",
+        "genocide": "Génocide",
+        "child": "enfants",
+        "women": "femmes",
+        "every_day": "Chaque jour",
+        "killed": "Tués"
     }
 }

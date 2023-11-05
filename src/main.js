@@ -16,6 +16,7 @@ import messages from "@intlify/unplugin-vue-i18n/messages";
 import { registerPlugins } from '@/plugins'
 
 const i18n = createI18n({
+
     legacy: false,
     globalInjection: true,
     locale: "en",
