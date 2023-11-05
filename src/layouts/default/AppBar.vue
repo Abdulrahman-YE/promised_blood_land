@@ -1,8 +1,9 @@
 <template>
   <v-app-bar flat>
     <v-app-bar-title>
-      <v-icon icon="mdi-circle-slice-4" color="primary" />
-      {{ $t('home.page_title') }} </v-app-bar-title>
+      <icon icon="mdi-blood" color="indianRed" />
+      {{ $t('home.page_title') }}
+    </v-app-bar-title>
     <template v-slot:append>
       <v-select label="languge" :items="$i18n.availableLocales" v-model="$i18n.locale" id="local"></v-select>
     </template>
@@ -11,7 +12,12 @@
 </template>
 
 <script  >
+import { Icon } from '@iconify/vue';
+
 export default {
+  components: {
+    Icon
+  },
   watch: {
     '$i18n.locale': (newVal, oldVal) => {
       console.log(newVal)
