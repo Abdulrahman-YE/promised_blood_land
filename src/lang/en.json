@@ -74,7 +74,7 @@
             {
                 "title": "Qana Massacre 1996",
                 "date": "April 18, 1996",
-                "details": "The First Qana Massacre took place on April 18, 1996, at the UNIFIL headquarters in the village of Qana, southern Lebanon. Israeli occupying forces targeted the compound after civilians sought refuge there, fleeing from the operation codenamed 'Grapes of Wrath' launched by Israel on Lebanon. The shelling of the compound resulted in the death of 106 civilians and the injury of many others. The members of the Security Council convened to vote on a resolution condemning Israel, but the United States vetoed the resolution, preventing its passage."
+                "details": "The First Qana Massacre took place on April 18, 1996, at the UNIFIL headquarters in the village of Qana, southern Lebanon. Israeli occupying forces targeted the compound after civilians sought refuge there, fleeing from the operation codenamed 'Grapes of Wrath' launched by Israel on Lebanon. The shelling of the compound resulted in the death of <span style=\"color: red; font-weight: bold;\">106</span> civilians and the injury of many others. The members of the Security Council convened to vote on a resolution condemning Israel, but the United States vetoed the resolution, preventing its passage."
             },
             {
                 "title": "Jenin Massacre",
@@ -84,7 +84,7 @@
             {
                 "title": "Qana Massacre 2006",
                 "date": "July 30, 2006",
-                "details": "The Qana Massacre 2006, or the Second Qana Massacre, occurred on July 30, 2006, during the Israeli aggression on Lebanon in 2006. It took place in the town of Qana, where a three-story building became a tragic scene. Around <span style=\"color: red;\">55</span> people were killed, including a significant number of young children who sought refuge in the town after being displaced from neighboring villages that were under bombardment. The bodies of 27 children were recovered among the victims. Israel claimed that it targeted the city for the second time, alleging that it served as a platform for launching rockets by Hezbollah into Israel during the Summer War in Lebanon. However, Hezbollah stated that the building did not contain any of its fighters and that the majority of those killed were women, children, and elderly. Israel, through its spokesperson, held Hezbollah responsible for the incident."
+                "details": "The Qana Massacre 2006, or the Second Qana Massacre, occurred on July 30, 2006, during the Israeli aggression on Lebanon in 2006. It took place in the town of Qana, where a three-story building became a tragic scene. Around <span style=\"color: red;\">55</span> people were killed, including a significant number of young children who sought refuge in the town after being displaced from neighboring villages that were under bombardment. The bodies of <span style=\"color: red; font-weight: bold;\">27</span> children were recovered among the victims. Israel claimed that it targeted the city for the second time, alleging that it served as a platform for launching rockets by Hezbollah into Israel during the Summer War in Lebanon. However, Hezbollah stated that the building did not contain any of its fighters and that the majority of those killed were women, children, and elderly. Israel, through its spokesperson, held Hezbollah responsible for the incident."
             },
             {
                 "title": "Rafah Massacre 2014",
