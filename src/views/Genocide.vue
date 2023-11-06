@@ -7,13 +7,18 @@
 
 
 
-      <h1 class="text-h5 font-weight-bold">{{ $t('genocide.title') }}</h1>
+      <header class="mx-auto max-w-screen-xl pt-28 text-center mb-10">
+        <h1 class="mt-2 text-3xl font-bold text-gray-900 sm:text-5xl">{{ $t('genocide.title') }}</h1>
+        <div class="mx-auto mt-2 max-w-screen-md space-y-12 px-4  font-serif text-lg tracking-wide text-gray-700">
+          <strong class="text-2xl font-medium text-justify" v-html="$t('genocide.details')"></strong>
+
+        </div>
+      </header>
+
+      <v-divider class="mb-6 space-y-12"></v-divider>
 
 
-      <p class="text-body  mt-1 text-justify">{{ $t('genocide.details') }}</p>
-
-
-      <div v-for="(section, index) in  tm('genocide.cides') " :key="index">
+      <div v-for="( section, index ) in   tm('genocide.cides')  " :key="index">
 
         <article>
           <header class="mx-auto max-w-screen-xl pt-28 text-center">
@@ -90,4 +95,5 @@ export default {
     width: 800px;
     height: 450px;
   }
-}</style>
+}
+</style>

@@ -11,5 +11,91 @@
         "lang": "Langue",
         "news_title": "24 massacres au cours des dernières heures, tuant 243 martyrs",
         "news_subtitle": " Les sionistes mènent une guerre d'extermination et de nettoyage ethnique depuis 30 jours de guerre, et les défenseurs des droits de l'homme ont mis son veto à une résolution de cessez-le-feu."
+    },
+    "genocide": {
+        "title": "Accomplir les besoins en sang pour établir la terre promise",
+        "details": "L’anéantissement brutal des populations arabes et palestiniennes, perpétré sous couvert d’établir une domination sioniste sanglante sur la terre, constitue un témoignage déchirant de la profondeur de la cruauté humaine. ",
+        "cides": [
+            {
+                "title": "Le massacre de Balad al-Cheikh",
+                "date": "31 décembre 1947",
+                "details": "Le massacre a eu lieu à la suite d'une attaque de la Haganah, une organisation paramilitaire juive, contre le village de Balad al-Sheikh, situé dans la banlieue sud-est de Haïfa, en Palestine (aujourd'hui la Terre du Sang Promis « Israël »).  <span style=\"color: red; font-weight: bold;\">200</span> personnes, dont une majorité de femmes et d’enfants."
+            },
+            {
+                "title": "Massacre de Deir Yassine",
+                "date": "9 avril 1948",
+                "details": "Le massacre a eu lieu dans le village de Deir Yassin, situé à l'ouest de Jérusalem.  <span style=\"color: red; font-weight: bold;\">300</span> résidents, dont la majorité étaient des enfants, des personnes âgées et des femmes. "
+            },
+            {
+                "title": "Massacre d'Abou Choucha",
+                "date": "14 mai 1948",
+                "details": "Le massacre a eu lieu dans le village d'Abu Shusha, situé à l'est de la ville de Ramla.  <span style=\"color: red; font-weight: bold;\">60</span> hommes, femmes, personnes âgées et même enfants. "
+            },
+            {
+                "title": "Massacre de Tantura",
+                "date": "23 mai 1948",
+                "details": "Le 33e bataillon de la brigade Alexandroni a attaqué le village de Tantura, situé sur la côte méditerranéenne et près de la ville de Haïfa.  <span style=\"color: red; font-weight: bold;\">200</span> morts, qui ont été enterrés dans une fosse commune."
+            },
+            {
+                "title": "Massacre de Qibya",
+                "date": "14 octobre 1953",
+                "details": "Deux unités militaires des forces d'occupation sionistes, dirigées par Ariel Sharon, l'ancien Premier ministre de l'entité, ont encerclé le village de Qibya en Cisjordanie, à l'ouest de la ville de Ramallah, alors sous la souveraineté du Royaume de Jordanie.  <span style=\"color: red;font-weight: bold;\">67</span> individus, y compris les hommes, les femmes et les enfants."
+            },
+            {
+                "title": "Massacre de Kafr Qasim",
+                "date": "29 octobre 1956",
+                "details": "Le massacre de Kafr Qasim a eu lieu le 29 octobre 1956, lorsque des soldats sionistes des gardes-frontières ont imposé un couvre-feu soudain dans le village de Kafr Qasim, entraînant la fusillade de villageois innocents rentrant chez eux de leurs champs pendant la saison de récolte des olives.  <span style=\"color: red; font-weight: bold;\">49</span> des personnes, y compris <span style=\"color: red; font-weight: bold;\">23</span> enfants, ont été sauvagement tués et de nombreux autres ont été blessés. "
+            },
+            {
+                "title": "Massacre de Khan Younis",
+                "date": "3 novembre 1956",
+                "details": "L'armée d'occupation sioniste a perpétré un massacre contre les réfugiés palestiniens dans le camp de Khan Yunis, situé au sud de la bande de Gaza.  <span style=\"color: red; font-weight: bold;\">250</span> Des martyrs ont été tués lorsque leurs forces en ont rassemblé certains sur des places publiques et ont déclenché une pluie de coups de feu sur eux.  <span style=\"color: red;font-weight: bold;\">275</span> martyrs civils dans le même camp."
+            },
+            {
+                "title": "Massacre de Bahr El-Baqar",
+                "date": "8 avril 1970",
+                "details": "Frappe aérienne menée par l'armée de l'air israélienne dans la matinée du 8 avril 1970. L'attaque a visé l'école commune de Bahr El-Baqar dans le village de Bahr El-Baqar, situé dans le district d'Al-Husayniyah du gouvernorat de Sharqia en Égypte.  <span style=\"color: red; font-weight: bold;\">30</span> enfants et les blessures de <span style=\"color: red; font-weight: bold;\">50</span> d'autres, ainsi que la destruction complète du bâtiment scolaire."
+            },
+            {
+                "title": "Massacre de Sabra et Chatila",
+                "date": "16-18 septembre 1982",
+                "details": "Le massacre de Sabra et Chatila a eu lieu dans les camps de réfugiés de Sabra et Chatila au Liban entre le 16 et le 18 septembre 1982, suite à l'invasion de l'armée d'occupation sioniste, dirigée par Ariel Sharon, dans la capitale Beyrouth.  <span style=\"color: red;font-weight: bold;\">1500</span> des civils ont été tués, dont des centaines d'enfants et de femmes."
+            },
+            {
+                "title": "Massacre de la mosquée Al-Aqsa",
+                "date": "8 octobre 1990",
+                "details": "Cela s'est produit lorsque des extrémistes juifs connus sous le nom de « Fidèles du Mont du Temple » ont tenté de poser la première pierre du prétendu troisième temple dans l'enceinte de la mosquée Al-Aqsa.  <span style=\"color: red;\">21</span> civils tués."
+            },
+            {
+                "title": "Massacre de la mosquée Ibrahimi",
+                "date": "25 février 1994",
+                "details": "Le massacre de la mosquée Ibrahimi a été perpétré par le médecin juif Baruch Goldstein dans la ville d'Hébron tôt le matin du 25 février 1994. Il était accompagné d'un groupe de colons et de soldats d'occupation.  <span style=\"color: red;font-weight: bold;\">29</span> les fidèles ont été martyrisés, tandis que certains fidèles ont réussi à maîtriser Baruch et à le tuer."
+            },
+            {
+                "title": "Massacre de Cana 1996",
+                "date": "18 avril 1996",
+                "details": "Le premier massacre de Qana a eu lieu le 18 avril 1996 au quartier général de la FINUL, dans le village de Qana, au sud du Liban.  <span style=\"color: red; font-weight: bold;\">106</span> civils et de nombreux blessés. "
+            },
+            {
+                "title": "Massacre de Jénine",
+                "date": "1er-11 avril 2002",
+                "details": "Entre le 1er et le 11 avril 2002, des milliers de forces sionistes ont envahi la ville de Jénine sous prétexte d’éliminer la résistance.  <span style=\"color: red; font-weight: bold;\">500</span> Les Palestiniens ont été martyrisés, la majorité étant des civils innocents."
+            },
+            {
+                "title": "Massacre de Cana 2006",
+                "date": "30 juillet 2006",
+                "details": "Le massacre de Cana 2006, ou deuxième massacre de Cana, a eu lieu le 30 juillet 2006, lors de l'agression israélienne contre le Liban en 2006. Il a eu lieu dans la ville de Cana, où un immeuble de trois étages est devenu une scène tragique.  <span style=\"color: red;\">55</span> des personnes ont été tuées, notamment un nombre important de jeunes enfants qui ont cherché refuge dans la ville après avoir été déplacés des villages voisins bombardés.  <span style=\"color: red; font-weight: bold;\">27</span> des enfants ont été retrouvés parmi les victimes. "
+            },
+            {
+                "title": "Massacre de Rafah 2014",
+                "date": "1 août 2014",
+                "details": "Le massacre de Rafah 2014, ou Black Friday, était un massacre perpétré par l'armée sioniste le 1er août 2014, pendant la guerre israélienne dans la bande de Gaza, dans la région d'Abu al-Rus, à l'est de la ville palestinienne de Rafah.  <span style=\"color: red; font-weight: bold;\">140</span> Palestiniens, dont environ <span style=\"color: red; font-weight: bold;\">75</span> enfants et les blessures de plus de <span style=\"color: red; font-weight: bold;\">1000</span> d'autres, ainsi que la destruction de maisons dans la région."
+            },
+            {
+                "title": "Massacre à l'hôpital baptiste (hôpital Al-Mumadani)",
+                "date": "17 octobre 2023",
+                "details": "Des avions israéliens ont ciblé l'hôpital arabe Al-Ahli (Al-Mumadani) à Gaza, provoquant l'un des massacres les plus horribles commis par Israël dans la bande de Gaza.  <span style=\"color: red; font-weight: bold;\">500</span> Des Palestiniens, principalement des femmes et des enfants, qui ont cherché refuge à l'hôpital contre les frappes aériennes israéliennes.\n\n"
+            }
+        ]
     }
 }

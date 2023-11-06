@@ -11,5 +11,91 @@
         "lang": "语言",
         "news_title": "过去几小时内发生了 24 起大屠杀，造成 243 名烈士死亡",
         "news_subtitle": "自战争开始 30 天以来，犹太复国主义者一直在进行种族灭绝和民族清洗战争，人权倡导者否决了停火决议."
+    },
+    "genocide": {
+        "title": "满足建立应许之地的血要求",
+        "details": "犹太复国主义以在这片土地上建立血腥的犹太复国主义统治为幌子，对阿拉伯和巴勒斯坦人民进行了残酷的屠杀，这是对人类残忍程度的悲惨证明。",
+        "cides": [
+            {
+                "title": "巴拉德谢赫大屠杀",
+                "date": "1947 年 12 月 31 日",
+                "details": "这次大屠杀是犹太准军事组织哈加纳袭击巴勒斯坦海法（现“应许血之地”以色列）东南郊的巴拉德谢赫村的结果。 <span style=\"color: red; font-weight: bold;\">200</span> 人，其中大多数是妇女和儿童。"
+            },
+            {
+                "title": "代尔亚辛大屠杀",
+                "date": "1948 年 4 月 9 日",
+                "details": "大屠杀发生在耶路撒冷以西的代尔亚辛村。  <span style=\"color: red; font-weight: bold;\">300</span> 居民中，大多数是儿童、老人和妇女。"
+            },
+            {
+                "title": "阿布舒沙大屠杀",
+                "date": "1948 年 5 月 14 日",
+                "details": "大屠杀发生在拉姆拉市东部的阿布舒沙村。 <span style=\"color: red; font-weight: bold;\">60</span> 男人、女人、老人，甚至儿童。"
+            },
+            {
+                "title": "坦图拉大屠杀",
+                "date": "1948 年 5 月 23 日",
+                "details": "亚历山德罗尼旅第33营袭击了位于地中海沿岸、海法市附近的坦图拉村。 <span style=\"color: red; font-weight: bold;\">200</span> 死了，被埋在万人坑里。"
+            },
+            {
+                "title": "奇比亚大屠杀",
+                "date": "1953 年 10 月 14 日",
+                "details": "由该实体前总理阿里尔·沙龙领导的犹太复国主义占领军的两支军事部队包围了西岸拉马拉市以西的齐比亚村，该村当时属于约旦王国主权 <span style=\"color: red;font-weight: bold;\">67</span> 个人，包括男性、女性和儿童。"
+            },
+            {
+                "title": "卡夫卡西姆大屠杀",
+                "date": "1956 年 10 月 29 日",
+                "details": "卡夫卡西姆大屠杀发生于 1956 年 10 月 29 日，当时边防卫队的犹太复国主义士兵突然对卡夫卡西姆村实行宵禁，导致橄榄收获季节从田地回家的无辜村民被枪杀。 <span style=\"color: red; font-weight: bold;\">49</span> 人，包括 <span style=\"color: red; font-weight: bold;\">23</span> 儿童惨遭杀害，还有许多人受伤。"
+            },
+            {
+                "title": "汗尤尼斯大屠杀",
+                "date": "1956 年 11 月 3 日",
+                "details": "犹太复国主义占领军在位于加沙地带南部的汗尤尼斯难民营对巴勒斯坦难民进行了屠杀。 <span style=\"color: red; font-weight: bold;\">250</span> 当他们的军队将其中一些人聚集在公共广场并向他们开枪射击时，烈士被杀。 <span style=\"color: red;font-weight: bold;\">275</span> 同一个营地的平民烈士。"
+            },
+            {
+                "title": "巴卡尔河大屠杀",
+                "date": "1970 年 4 月 8 日",
+                "details": "1970年4月8日上午，以色列空军发动空袭。袭击目标是位于埃及沙恰省Al-Husayniyah区Bahr El-Baqar村的Bahr El-Baqar联合学校。 <span style=\"color: red; font-weight: bold;\">30</span> 儿童和伤害 <span style=\"color: red; font-weight: bold;\">50</span> 其他的，以及学校建筑的彻底毁坏。"
+            },
+            {
+                "title": "萨布拉和夏蒂拉大屠杀",
+                "date": "1982年9月16日至18日",
+                "details": "1982年9月16日至18日，阿里尔·沙龙领导的犹太复国主义占领军入侵首都贝鲁特后，黎巴嫩萨布拉和沙蒂拉难民营发生了萨布拉和沙蒂拉大屠杀。 <span style=\"color: red;font-weight: bold;\">1500</span> 平民被杀，其中包括数百名儿童和妇女。"
+            },
+            {
+                "title": "阿克萨清真寺大屠杀",
+                "date": "1990 年 10 月 8 日",
+                "details": "此事发生时，被称为“圣殿山忠实者”的犹太极端分子试图为阿克萨清真寺大院内所谓的第三座圣殿奠基。 <span style=\"color: red;\">21</span> 平民被杀。"
+            },
+            {
+                "title": "易卜拉希米清真寺大屠杀",
+                "date": "1994 年 2 月 25 日",
+                "details": "易卜拉希米清真寺大屠杀是1994年2月25日凌晨，犹太医生巴鲁克·戈尔茨坦在希伯伦市实施的，他的身边有一群定居者和占领军士兵。 <span style=\"color: red;font-weight: bold;\">29</span> 崇拜者殉道，而一些崇拜者设法制服了巴录并杀死了他。"
+            },
+            {
+                "title": "加纳大屠杀 1996",
+                "date": "1996 年 4 月 18 日",
+                "details": "第一次卡纳大屠杀于 1996 年 4 月 18 日在黎巴嫩南部卡纳村的联黎部队总部发生。 <span style=\"color: red; font-weight: bold;\">106</span> 平民和许多其他人受伤。"
+            },
+            {
+                "title": "杰宁大屠杀",
+                "date": "2002年4月1日至11日",
+                "details": "2002年4月1日至11日期间，数千名犹太复国主义军队以消灭抵抗为借口入侵杰宁市。 <span style=\"color: red; font-weight: bold;\">500</span> 巴勒斯坦人丧生，其中大多数是无辜平民。"
+            },
+            {
+                "title": "加纳大屠杀 2006",
+                "date": "2006 年 7 月 30 日",
+                "details": "2006年卡纳大屠杀，即第二次卡纳大屠杀，发生在2006年7月30日，即2006年以色列侵略黎巴嫩期间。事件发生在卡纳镇，一栋三层楼房成为悲惨景象。 <span style=\"color: red;\">55</span> 人们被杀，其中包括大量从遭受轰炸的邻近村庄流离失所到该镇避难的儿童。 <span style=\"color: red; font-weight: bold;\">27</span> 受害者中找到了儿童。"
+            },
+            {
+                "title": "拉法大屠杀 2014",
+                "date": "2014 年 8 月 1 日",
+                "details": "2014 年拉法大屠杀，又称黑色星期五，是 2014 年 8 月 1 日以色列对加沙地带战争期间，犹太复国主义军队在巴勒斯坦城市拉法以东的 Abu al-Rus 地区实施的一场大屠杀。 <span style=\"color: red; font-weight: bold;\">140</span> 巴勒斯坦人，包括大约 <span style=\"color: red; font-weight: bold;\">75</span> 儿童，以及超过以上的伤害 <span style=\"color: red; font-weight: bold;\">1000</span> 其他的，以及该地区房屋的毁坏。"
+            },
+            {
+                "title": "浸信会医院（Al-Mumadani 医院）惨案",
+                "date": "2023 年 10 月 17 日",
+                "details": "以色列飞机袭击了加沙的阿赫利阿拉伯医院（Al-Mumadani），造成以色列在加沙地带犯下的最可怕的屠杀之一。 <span style=\"color: red; font-weight: bold;\">500</span> 巴勒斯坦人（主要是妇女和儿童）在医院寻求庇护，以躲避以色列的空袭。\n\n"
+            }
+        ]
     }
 }
