@@ -19,12 +19,12 @@
         </svg>
 
         <h1 class="title">
-          11,180 {{ $t("home.killed") }}
+          13,300 {{ $t("home.killed") }}
           <span class="dropy"></span>
 
           <span class="dropy"></span>
         </h1>
-        <p class="text-body" style="color:IndianRed;">4609 {{ $t('home.child') }} , 3100 {{ $t('home.women') }}. 125 {{
+        <p class="text-body" style="color:IndianRed;">5600 {{ $t('home.child') }} , 4100 {{ $t('home.women') }}. 125 {{
           $t("home.killed") + " " + $t('home.every_day') }} </p>
 
       </div>
